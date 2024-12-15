@@ -1,0 +1,128 @@
+/* Login Page Styling */
+.login-page {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .signup-button {
+    margin-top: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .modal-content {
+    background-color: #1a1a1a;
+    padding: 2rem;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 400px;
+    color: white;
+  }
+  
+  .cancel-button {
+    background-color: #282828;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 0.5rem;
+  }
+
+  .cancel-button:hover {
+    background-color: #3e3e3e;
+  }
+  
+  .modal-content h2 {
+    color: white;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  /* In LoginPage.css */
+.button-container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 40px;
+}
+  
+  .login-button, .signup-button {
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+  }
+
+  .login-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+  }
+
+  .signup-button {
+    background-color: transparent;
+    color: #007bff;
+    border: 2px solid #007bff;
+  }
+
+  .login-button:hover {
+    background-color: #0056b3;
+  }
+
+  .signup-button:hover {
+    background-color: rgba(0, 123, 255, 0.1);
+  }
+
+  .login-logo {
+    width: 150px;  /* Adjust size as needed */
+    height: auto;
+    margin-bottom: 0;  /* Space between logo and heading */
+}
+  
