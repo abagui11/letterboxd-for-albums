@@ -2,7 +2,12 @@
 
 A web application that serves as a "Letterboxd for Albums" - allowing users to track, analyze, and share their music listening habits with friends. Users can save albums, discover new music through various analytical queries, and connect with friends over shared musical interests.
 
-![Example 1](https://imgur.com/KvsGLUC)
+## Feature Screenshots
+<img width="1230" alt="letterboxd-for-music-ex1" src="https://github.com/user-attachments/assets/cec1f876-f9ab-43af-b18a-922927f371ea" />
+<img width="1060" alt="letterboxd-for-music-ex2" src="https://github.com/user-attachments/assets/934c6a73-6f0e-453c-af71-8349b8b37e9d" />
+<img width="608" alt="letterboxd-for-music-ex3" src="https://github.com/user-attachments/assets/a3a15a8e-2f02-4aaa-b610-cb1bddfd988e" />
+<img width="843" alt="letterboxd-for-music-ex4" src="https://github.com/user-attachments/assets/b930b1ae-c576-4dd4-89dd-1b26e809c880" />
+<img width="719" alt="letterboxd-for-music-ex5" src="https://github.com/user-attachments/assets/726914c0-c2b0-4fbc-baeb-08fd27316d4c" />
 
 ## Tech Stack
 
