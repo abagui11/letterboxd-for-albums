@@ -2,6 +2,8 @@
 
 A web application that serves as a "Letterboxd for Albums" - allowing users to track, analyze, and share their music listening habits with friends. Users can save albums, discover new music through various analytical queries, and connect with friends over shared musical interests.
 
+![Example 1](https://i.imgur.com/bmnwveC.png)
+
 ## Tech Stack
 
 ### Frontend
